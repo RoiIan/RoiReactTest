@@ -1,2 +1,0 @@
-# RoiReactTest
-Created with CodeSandbox
