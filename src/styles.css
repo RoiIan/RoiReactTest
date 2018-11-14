@@ -1,4 +1,14 @@
 .App {
+  width: 100%;
   font-family: sans-serif;
-  text-align: center;
+  text-align: left;
+}
+
+.custom-heading {
+  text-align: start;
+  color: silver;
+}
+
+pre {
+  font-style: italic;
 }
