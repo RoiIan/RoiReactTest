@@ -21,7 +21,7 @@ function App() {
         title="React Test"
       />
       <p>
-        Taks are listed in the App Function. You should not make any changes to
+        Tasks are listed in the App Function. You should not make any changes to
         the App Function. But can make any changes you need to the code outside
         of App, including adding new components.
       </p>
