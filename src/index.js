@@ -25,6 +25,13 @@ function App() {
         the App Function. But can make any changes you need to the code outside
         of App, including adding new components.
       </p>
+      <p>
+        After you complete as much of this test as you can. Please ensure you
+        have saved your work. Then send us the Editor Url from the share menu.
+        Or fork the project to your own git hub account. If you do not use git,
+        please ensure you have a copy on your computer of this file in case
+        something goes wrong.
+      </p>
       {
         // TASK 2
         // The following call to MyTable should produce the same table as below.
