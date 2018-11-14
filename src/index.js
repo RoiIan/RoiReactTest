@@ -28,9 +28,9 @@ function App() {
       <p>
         After you complete as much of this test as you can. Please ensure you
         have saved your work. Then send us the Editor Url from the share menu.
-        Or fork the project to your own git hub account. If you do not use git,
-        please ensure you have a copy on your computer of this file in case
-        something goes wrong.
+        Or fork the project to your own git hub account and send the github url.
+        If you do not use git, please ensure you have a copy on your computer of
+        this file in case something goes wrong.
       </p>
       {
         // TASK 2
@@ -109,6 +109,8 @@ function App() {
         // to allow a user to search for an author.
         // The component is set up to render state at the moment. So if your
         // search works the state should be updated.
+        // bonus
+        // Format the retuned data. Do not spend too long on this.
       }
       <Books />
     </div>
@@ -120,7 +122,6 @@ class Books extends React.Component {
 
   search = title => {
     // fetch the data here, e.g. https://reststop.randomhouse.com/resources/authors?lastName=
-    // hint set the Accept header to "application/json"
     // then update the data property in state with the results
   };
 
